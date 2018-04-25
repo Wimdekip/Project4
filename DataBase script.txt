@@ -1,0 +1,12 @@
+Create Table Rooster(
+	Lokaal_id varchar,
+	Bezet int,
+	Lesuur int,
+	dag varchar,
+	week int,
+
+	);
+Insert into Rooster Values
+	('H1100',1,1,'ma',1)
+
+;
