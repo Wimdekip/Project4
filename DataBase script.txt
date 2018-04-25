@@ -4,7 +4,7 @@ Create Table Rooster(
 	Bezet integer,
 	Lesuur integer,
 	dag varchar(2),
-	week integer,
+	week integer
 
 	);
 Insert into Rooster Values
