@@ -1,0 +1,122 @@
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\layout\main.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\values\strings.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\icon.png
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\R.cs.flag
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\uploadflags.txt
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+c:\users\joseph\documents\visual studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\Joseph\Documents\Visual Studio 2013\Projects\LoginSystem\LoginSystem\obj\Debug\res\values\styles.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csprojResolveAssemblyReference.cache
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\layout\main.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\values\strings.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\icon.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\drawable\mail.png
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_up.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_right.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\res\values\styles.xml
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\R.cs.flag
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\uploadflags.txt
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll.mdb
+E:\SoftwareDevelopment\Android\Xamarin\VisualStudio\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\layout\dialog_sign_up.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\buttonsignupstyle.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\edit_text_style.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\drawable\mail.png
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_up.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\anim\slide_right.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\res\values\styles.xml
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\Mono.Data.Tds.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\Mono.Data.Tds.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\Mono.Data.Tds.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Core.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Data.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Data.Services.Client.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Numerics.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Transactions.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\android\assets\System.Xml.pdb
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csprojResolveAssemblyReference.cache
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\timho\Desktop\LoginSystem\LoginSystem\obj\Debug\linksrc\LoginSystem.dll.mdb
